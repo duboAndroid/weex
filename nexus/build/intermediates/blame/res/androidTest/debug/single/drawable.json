@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_folder_item.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_folder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_cover_shade.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_cover_shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_loading.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_default_image.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_default_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back_press.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_overlay_gradient.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_overlay_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_top_ok.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_item_checked.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\SDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\weexerror.png",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\SDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\weexerror.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_loading.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_default_image.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_default_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_black.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\weex_sdk-0.18.0.aar\\35f43633e884add7334daca11998c40f\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_image_folder.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_image_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_keyboardview.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\SDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_keyboardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_round_rectange.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_round_rectange.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_check.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_vector_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_arrow_back.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_delete.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_vector_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_image_folder.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_image_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_pre.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_pre.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_item_checked.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_overlay_gradient.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_overlay_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_nor.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_top_ok.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_round_rectange.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_round_rectange.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back_press.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\floatlayer_bg.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\floatlayer_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_check.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_vector_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_folder_item.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_folder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_dis.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_dis.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_vector_delete.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_vector_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_black.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_keyboardview_yes.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\SDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_keyboardview_yes.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_dis.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_dis.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\floatlayer_bg.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\floatlayer_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_svprogresshuddefault.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_svprogresshuddefault.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sdk_bmloading.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\SDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\sdk_bmloading.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_cover_shade.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_cover_shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_arrow_back.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_pre.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_pre.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_svprogresshuddefault.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_svprogresshuddefault.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\7a72c1a03cd3710365ce6430db72d616\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_btn_nor.xml",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\drawable\\bg_btn_nor.xml"
+    }
+]

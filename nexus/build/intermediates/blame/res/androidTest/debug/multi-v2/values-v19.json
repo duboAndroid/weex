@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+include ':app',
+    //':sdk',
+    //':wxframework',
+    ':framework', ':nexus', ':SDK'
+
+// 基础库
+/*project(':eros-framework').projectDir = new File(settingsDir,'/wxframework/eros-framework')
+project(':sdk').projectDir = new File(settingsDir,'/nexus/sdk')
+project(':nexus2').projectDir = new File(settingsDir,'/nexus/nexus')*/

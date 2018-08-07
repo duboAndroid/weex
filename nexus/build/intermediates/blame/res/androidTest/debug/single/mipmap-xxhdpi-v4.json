@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\checkbox_normal.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\checkbox_checked.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\checkbox_checked.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\text_indicator.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\text_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\grid_camera.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\grid_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus2\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\text_indicator.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\text_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\checkbox_normal.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\checkbox_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\eros-template-master\\eros-template-master\\platforms\\android\\WeexFrameworkWrapper\\nexus\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\grid_camera.png",
+        "source": "C:\\Users\\dubo\\.gradle\\caches\\transforms-1\\files-1.1\\imagepicker-0.6.1.aar\\6155118a0da26774c0bae29a8b615b0b\\res\\mipmap-xxhdpi-v4\\grid_camera.png"
+    }
+]

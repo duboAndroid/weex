@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res"/><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\build\generated\res\rs\debug"/><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res"><file name="bottom_in" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\bottom_in.xml" qualifiers="" type="anim"/><file name="bottom_out" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\bottom_out.xml" qualifiers="" type="anim"/><file name="dialog_enter" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\dialog_enter.xml" qualifiers="" type="anim"/><file name="dialog_exit" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\dialog_exit.xml" qualifiers="" type="anim"/><file name="svfade_in_center" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svfade_in_center.xml" qualifiers="" type="anim"/><file name="svfade_out_center" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svfade_out_center.xml" qualifiers="" type="anim"/><file name="svslide_in_bottom" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svslide_in_bottom.xml" qualifiers="" type="anim"/><file name="svslide_in_top" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svslide_in_top.xml" qualifiers="" type="anim"/><file name="svslide_out_bottom" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svslide_out_bottom.xml" qualifiers="" type="anim"/><file name="svslide_out_top" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\anim\svslide_out_top.xml" qualifiers="" type="anim"/><file name="mcv_text_date_light" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\color\mcv_text_date_light.xml" qualifiers="" type="color"/><file name="bg_black" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\bg_black.xml" qualifiers="" type="drawable"/><file name="bg_overlay_gradient" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\bg_overlay_gradient.xml" qualifiers="" type="drawable"/><file name="bg_svprogresshuddefault" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\bg_svprogresshuddefault.xml" qualifiers="" type="drawable"/><file name="dialog_loading" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\dialog_loading.xml" qualifiers="" type="drawable"/><file name="floatlayer_bg" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\floatlayer_bg.xml" qualifiers="" type="drawable"/><file name="shape_round_rectange" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable\shape_round_rectange.xml" qualifiers="" type="drawable"/><file name="icon_backnav" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\icon_backnav.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_svstatus_error" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\ic_svstatus_error.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_svstatus_info" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\ic_svstatus_info.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_svstatus_loading" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\ic_svstatus_loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_svstatus_success" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\ic_svstatus_success.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_icon" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\loading_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mcv_action_next" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\mcv_action_next.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mcv_action_previous" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\mcv_action_previous.png" qualifiers="xhdpi-v4" type="drawable"/><file name="place_holder" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\drawable-xhdpi\place_holder.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_debug_error_layout" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\dialog_debug_error_layout.xml" qualifiers="" type="layout"/><file name="dialog_progress_layout" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\dialog_progress_layout.xml" qualifiers="" type="layout"/><file name="layout_animloading" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_animloading.xml" qualifiers="" type="layout"/><file name="layout_custom_toolbar" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_custom_toolbar.xml" qualifiers="" type="layout"/><file name="layout_dialog" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_dialog.xml" qualifiers="" type="layout"/><file name="layout_floatlayer" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_floatlayer.xml" qualifiers="" type="layout"/><file name="layout_grid_dialog" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_grid_dialog.xml" qualifiers="" type="layout"/><file name="layout_grid_item" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_grid_item.xml" qualifiers="" type="layout"/><file name="layout_svprogresshud" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_svprogresshud.xml" qualifiers="" type="layout"/><file name="layout_top" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\layout_top.xml" qualifiers="" type="layout"/><file name="view_svprogressdefault" path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\layout\view_svprogressdefault.xml" qualifiers="" type="layout"/><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="BMReceiverTextView">
+        <attr format="boolean" name="autoZoom"/>
+    </declare-styleable><declare-styleable name="BMSimpleSeekBar">
+        <attr format="color" name="lineColor"/>
+        <attr format="color" name="textColor"/>
+        <attr format="reference" name="seekBar"/>
+        <attr format="dimension" name="raduis"/>
+        <attr format="dimension" name="margin_line"/>
+    </declare-styleable><declare-styleable name="MaterialCircleView">
+
+        <attr format="boolean" name="bGradient"/>
+        <attr format="color" name="circleColor"/>
+        <attr format="dimension" name="circleWidth"/>
+        <attr format="dimension" name="radius"/>
+    </declare-styleable><declare-styleable name="MaxScrollViewStyle">
+        <attr format="dimension" name="maxHeight"/>
+    </declare-styleable><declare-styleable name="SVCircleProgressBar">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="integer" name="max"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="MaterialCalendarView">
+
+        <attr format="reference" name="mcv_dateTextAppearance"/>
+        <attr format="reference" name="mcv_weekDayTextAppearance"/>
+        <attr format="reference" name="mcv_headerTextAppearance"/>
+
+        <attr format="color" name="mcv_arrowColor"/>
+        <attr format="reference" name="mcv_leftArrowMask"/>
+        <attr format="reference" name="mcv_rightArrowMask"/>
+        <attr format="color" name="mcv_selectionColor"/>
+
+        <attr format="integer" name="mcv_showOtherDates">
+            <flag name="none" value="0"/>
+            <flag name="other_months" value="1"/>
+            <flag name="out_of_range" value="2"/>
+            <flag name="decorated_disabled" value="4"/>
+            <flag name="defaults" value="4"/>
+            <flag name="all" value="7"/>
+        </attr>
+
+        <attr format="boolean" name="mcv_allowClickDaysOutsideCurrentMonth"/>
+
+        <attr format="reference" name="mcv_weekDayLabels"/>
+        <attr format="reference" name="mcv_monthLabels"/>
+
+        
+        <attr format="dimension" name="mcv_tileSize">
+            <enum name="match_parent" value="-1"/>
+        </attr>
+        <attr format="dimension" name="mcv_tileHeight">
+            <enum name="match_parent" value="-1"/>
+        </attr>
+        <attr format="dimension" name="mcv_tileWidth">
+            <enum name="match_parent" value="-1"/>
+        </attr>
+
+        <attr format="enum" name="mcv_firstDayOfWeek">
+            <enum name="sunday" value="1"/>
+            <enum name="monday" value="2"/>
+            <enum name="tuesday" value="3"/>
+            <enum name="wednesday" value="4"/>
+            <enum name="thursday" value="5"/>
+            <enum name="friday" value="6"/>
+            <enum name="saturday" value="7"/>
+        </attr>
+
+        <attr format="enum" name="mcv_calendarMode">
+            <enum name="month" value="0"/>
+            <enum name="week" value="1"/>
+        </attr>
+
+        <attr format="enum" name="mcv_titleAnimationOrientation">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="1"/>
+        </attr>
+
+
+    </declare-styleable><declare-styleable name="exactly">
+        <attr format="boolean" name="exactly_checked"/>
+    </declare-styleable></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\colors.xml" qualifiers=""><color name="c_f2f2f2">#f2f2f2</color><color name="c_46c4dd">#46c4dd</color><color name="c_ff333333">#ff333333</color><color name="c_ffdddddd">#FFdddddd</color><color name="c_b0000000">#b0000000</color><color name="c_ffffff">#ffffff</color><color name="c_666666">#666666</color><color name="c_999999">#999999</color><color name="c_45c4dd">#45c4dd</color><color name="c_eff3f4">#eff3f4</color><color name="bgColor_overlay">#60000000</color><color name="bgColor_overlay_black">#95000000</color><color name="bgColor_svprogressdefaultview">@android:color/white</color><color name="textColor_svprogresshuddefault_msg">#000000</color><color name="roundColor_svprogresshuddefault">#e5e5e5</color><color name="roundProgressColor_svprogresshuddefault">@android:color/black</color></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\dimens.xml" qualifiers=""><dimen name="size_12">12dp</dimen><dimen name="size_15">15dp</dimen><dimen name="size_18">18dp</dimen><dimen name="size_16">16dp</dimen><dimen name="dimen75">75dp</dimen><dimen name="padding_svprogresshuddefault">15dp</dimen><dimen name="size_minwidth_svprogresshuddefault">120dp</dimen><dimen name="size_image_bigloading">80dp</dimen><dimen name="size_image_smallloading">60dp</dimen><dimen name="radius_svprogresshuddefault">25px</dimen><dimen name="textSize_svprogresshuddefault_msg">15sp</dimen><dimen name="margintop_svprogresshuddefault_msg">10dp</dimen></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\ids.xml" qualifiers=""><item name="mcv_pager" type="id"/></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\Integer.xml" qualifiers=""><integer name="svanimation_default_duration">300</integer></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">bmWidgetLib</string><string name="previous">Go to previous</string><string name="next">Go to next</string><string name="calendar">Calendar</string><string name="str_reload">网络出错，轻触重新加载</string><string name="capture_qrcode_prompt">请将条码置于取景框内扫描</string><string name="str_update_title">更新提示</string><string name="str_update_tips">升级数据已准备就绪，完成升级获得完整功能体验。</string><string name="str_update_now">立即升级</string><string name="str_update_later">稍后升级</string><string name="str_share_success">分享成功</string><string name="str_share_failed">分享失败</string><string name="str_paste_board">已经复制到剪贴板</string><string name="str_locate_success">定位成功</string><string name="str_locate_failed">定位失败</string><string name="str_privilege_deny">权限拒绝</string><string name="str_init_failed">初始化失败</string><string name="str_ensure">确定</string><string name="str_cancel">取消</string><string name="str_error_ssl_cert_invalid">该站点安全证书无效，是否继续访问</string></file><file path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\main\res\values\style.xml" qualifiers=""><style name="gAlertDialogTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/shape_round_rectange</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:padding">0dip</item>
+    </style><style name="AnimDialogLoading">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+    </style><style name="ActionSheetDialogStyle" parent="@android:style/Theme.Dialog">
+
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowAnimationStyle">@style/ActionSheetDialogAnimation</item>
+    </style><style name="ActionSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/bottom_out</item>
+    </style><style name="TextAppearance.MaterialCalendarWidget.Date" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/mcv_text_date_light</item>
+    </style><style name="TextAppearance.MaterialCalendarWidget.WeekDay" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textSize">12sp</item>
+    </style><style name="PopWindowAnimStyle">
+        <item name="android:windowShowAnimation">@anim/dialog_enter</item>
+        
+        <item name="android:windowHideAnimation">@anim/dialog_exit</item>
+        
+    </style><style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+
+    </style></file></source><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\build\generated\res\rs\debug"/><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\dubo\Desktop\eros-template-master\eros-template-master\platforms\android\WeexFrameworkWrapper\nexus\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SVCircleProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="integer" name="max"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable><declare-styleable name="BMSimpleSeekBar"><attr format="color" name="lineColor"/><attr format="color" name="textColor"/><attr format="reference" name="seekBar"/><attr format="dimension" name="raduis"/><attr format="dimension" name="margin_line"/></declare-styleable><declare-styleable name="BMReceiverTextView"><attr format="boolean" name="autoZoom"/></declare-styleable><declare-styleable name="exactly"><attr format="boolean" name="exactly_checked"/></declare-styleable><declare-styleable name="MaterialCircleView"><attr format="boolean" name="bGradient"/><attr format="color" name="circleColor"/><attr format="dimension" name="circleWidth"/><attr format="dimension" name="radius"/></declare-styleable><declare-styleable name="MaterialCalendarView"><attr format="reference" name="mcv_dateTextAppearance"/><attr format="reference" name="mcv_weekDayTextAppearance"/><attr format="reference" name="mcv_headerTextAppearance"/><attr format="color" name="mcv_arrowColor"/><attr format="reference" name="mcv_leftArrowMask"/><attr format="reference" name="mcv_rightArrowMask"/><attr format="color" name="mcv_selectionColor"/><attr format="integer" name="mcv_showOtherDates">
+            <flag name="none" value="0"/>
+            <flag name="other_months" value="1"/>
+            <flag name="out_of_range" value="2"/>
+            <flag name="decorated_disabled" value="4"/>
+            <flag name="defaults" value="4"/>
+            <flag name="all" value="7"/>
+        </attr><attr format="boolean" name="mcv_allowClickDaysOutsideCurrentMonth"/><attr format="reference" name="mcv_weekDayLabels"/><attr format="reference" name="mcv_monthLabels"/><attr format="dimension" name="mcv_tileSize">
+            <enum name="match_parent" value="-1"/>
+        </attr><attr format="dimension" name="mcv_tileHeight">
+            <enum name="match_parent" value="-1"/>
+        </attr><attr format="dimension" name="mcv_tileWidth">
+            <enum name="match_parent" value="-1"/>
+        </attr><attr format="enum" name="mcv_firstDayOfWeek">
+            <enum name="sunday" value="1"/>
+            <enum name="monday" value="2"/>
+            <enum name="tuesday" value="3"/>
+            <enum name="wednesday" value="4"/>
+            <enum name="thursday" value="5"/>
+            <enum name="friday" value="6"/>
+            <enum name="saturday" value="7"/>
+        </attr><attr format="enum" name="mcv_calendarMode">
+            <enum name="month" value="0"/>
+            <enum name="week" value="1"/>
+        </attr><attr format="enum" name="mcv_titleAnimationOrientation">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="1"/>
+        </attr></declare-styleable><declare-styleable name="MaxScrollViewStyle"><attr format="dimension" name="maxHeight"/></declare-styleable></configuration></mergedItems></merger>
